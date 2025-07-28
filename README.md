@@ -1,6 +1,6 @@
 <div align="center">
   
-<h3 align="center">👋 Hi</h3>
+<h3 align="center">👋&nbsp;&nbsp;Hi</h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=450&size=21&duration=2500&pause=1000&color=E0FFFF&background=FF248800&center=true&width=700&lines=I'm+Timofey+-+Backend+Developer;With+3+years+of+experience;Specialize+in+the+creation+of+advanced+automated+systems;And+also+web+applications%2C+rest+API%2C+TG%2FDS+Bots" alt="Typing SVG" />
 
@@ -18,6 +18,6 @@
 
 <h3 align="center">🌐 Feedback</h3>
 
-<a href="https://t.me/outskip"><img src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=blue" width="100"></a>
+<a href="https://t.me/outskip"><img src="https://img.shields.io/badge/-telegram-red?color=gray&logo=telegram&logoColor=E0FFFF" width="100"></a>
 
 </div>
